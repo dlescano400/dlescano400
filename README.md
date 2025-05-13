@@ -1,4 +1,4 @@
-![bannert](./github_banner.png "Daniel Lescano")
+![bannert](https://raw.githubusercontent.com/dlescano400/dlescano400/refs/heads/main/github_banner.png "Daniel Lescano")
 
 ## 👋 ¡Hola! Soy Daniel Lescano
 
