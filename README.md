@@ -1,6 +1,4 @@
-#
-
-![bannert](./github_banner.png)
+![bannert](./github_banner.png "Daniel Lescano")
 
 ## 👋 ¡Hola! Soy Daniel Lescano
 
